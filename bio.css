@@ -1,0 +1,31 @@
+body{
+    background-repeat:repeat-x;
+ 
+}
+
+/* .container{
+    display: flex;
+} */
+
+.right{
+    position:absolute;
+    right: 10px;
+    top: 220px;
+    text-align: left;
+    width: 25%;
+    margin-right: 0%;
+    padding-right: 0%;
+    border-right: 0ch;
+}
+
+.cont1{
+    border-radius: 5%;
+    width: 20%;
+}
+
+.main{
+    padding-left: 0%;
+    margin-top: 5%;
+    margin-left: 14%;
+    width: 50%;
+}
